@@ -9,8 +9,8 @@ android {
         
         defaultConfig {
                 minSdk 26
-                versionCode 106
-                versionName "1.0.6"
+                versionCode 111
+                versionName "1.1.1"
         }
         
         buildTypes {
@@ -41,7 +41,7 @@ afterEvaluate {
                                 
                                 groupId = "com.github.andfisbr"
                                 artifactId = "sliding-root-nav"
-                                version = "1.0.6"
+                                version = "1.1.1"
                         }
                 }
         }
